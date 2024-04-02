@@ -28,5 +28,8 @@ header{
 
 ul{
     display: flex;
-    
+    list-style: none;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 0 0 0 20vh;
 }
